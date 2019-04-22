@@ -33,6 +33,10 @@ $ sudo pip3 install watson_developer_cloud      # 2.8.0
 $ sudo pip3 install google-api-python-client    # 1.7.8
 $ sudo pip3 install oauth2client                # 4.1.3
 ```
+or
+```
+$ sudo pip3 install -R requirements.txt
+```
 
 You will need to use the NLTK Downloader to obtain punkt:
 
